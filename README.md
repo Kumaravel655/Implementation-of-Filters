@@ -186,27 +186,24 @@ plt.show()
 
 
 i) Using Averaging Filter
-![Screenshot (82)](https://user-images.githubusercontent.com/75235334/166419270-9df95d38-0cd6-4597-be69-c6605beded15.png)
+![Screenshot (88)](https://user-images.githubusercontent.com/75235334/166420627-31b2f484-5a06-488a-916d-a9829b2e6e64.png)
 
 
 ii) Using Weighted Averaging Filter
-![Screenshot (83)](https://user-images.githubusercontent.com/75235334/166419347-4fe9aad3-dc61-40fe-aa06-ed2ed80e5d79.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/75235334/166420731-9e61152f-f8ae-4264-84ee-00b5fc102a07.png)
 
 iii) Using Gaussian Filter
 
-![Screenshot (84)](https://user-images.githubusercontent.com/75235334/166419707-d8852f23-40a7-45a0-b256-61d0b64a0262.png)
-
+![Screenshot (90)](https://user-images.githubusercontent.com/75235334/166420809-96ee3135-cf27-439c-bc61-1f70323e9104.png)
 iv) Using Median Filter
-![Screenshot (85)](https://user-images.githubusercontent.com/75235334/166419805-39d3bc46-cb10-4467-9b63-d450a3595dba.png)
-
+![Screenshot (91)](https://user-images.githubusercontent.com/75235334/166420887-77f63e8a-07c4-4ea3-af1c-0d2a7dfb2d11.png)
 ### 2. Sharpening Filters
  
 
 i) Using Laplacian Kernal
-![Screenshot (86)](https://user-images.githubusercontent.com/75235334/166419963-c5dc8888-7882-4479-8f13-02190cf75234.png)
-
+![Screenshot (92)](https://user-images.githubusercontent.com/75235334/166420999-c01a439c-f41f-43aa-87d1-876f4c2c9c5e.png)
 ii) Using Laplacian Operator
-![Screenshot (87)](https://user-images.githubusercontent.com/75235334/166420065-fcc49e28-804a-47d8-a9a9-0f9a214a2d96.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/75235334/166421063-230efd8a-1792-4488-be88-d05563a44d44.png)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
